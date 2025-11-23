@@ -6,7 +6,7 @@ The Proportional Interaction Framework proposes three foundational principles. T
 
 ## Principle 1: Proportional State
 
-**A system's state is not a static property—it is a dynamic ratio.**
+**A system's [state](../definitions/concept-state.md) is not a static property—it is a dynamic ratio.**
 
 ### The Core Logic
 
@@ -39,7 +39,7 @@ State is not permanent. It is continuously recalculated based on the system's en
 
 ### The Core Logic
 
-When two agents encounter each other, they do not automatically interact. The effectiveness of their coupling depends on their **fit** across multiple dimensions:
+When two agents encounter each other, they do not automatically interact. The effectiveness of their coupling depends on their **fit** across multiple dimensions (see [Resonance](../definitions/concept-resonance.md)):
 
 1. **Impedance (Boundary Matching):** Do their interfaces align? Can they even "touch"?
 2. **Resonance (Frequency Matching):** Do they operate on compatible timescales or wavelengths?
@@ -69,7 +69,7 @@ You cannot interact with a system if you do not match its properties. A radio wa
 
 ### The Core Logic
 
-Every system has a **capacity**—a maximum amount of load (stress, information, energy) it can distribute without changing its fundamental structure.
+Every system has a **[capacity](../definitions/concept-capacity.md)**—a maximum amount of load (stress, information, energy) it can distribute without changing its fundamental structure.
 
 - **Linear Regime (Load < Capacity):** The system responds elastically, predictably, proportionally
 - **Threshold (Load ≈ Capacity):** The system is at the edge, small changes have large effects
@@ -100,13 +100,13 @@ What we call "breaking" is not destruction—it is a forced response to overload
 
 These three principles are not independent—they interact:
 
-1. **State** influences how a system responds to the world
-2. **Interaction** determines what inputs the system can effectively process
-3. **Capacity** determines when the system may be forced to transform
+1. **[State](../definitions/concept-state.md)** influences how a system responds to the world
+2. **[Interaction](../definitions/concept-resonance.md)** determines what inputs the system can effectively process
+3. **[Capacity](../definitions/concept-capacity.md)** determines when the system may be forced to transform
 
-Together, they suggest a feedback loop: **State → Interaction → Response → New State**
+Together, they suggest a feedback loop: **State → Interaction → Response → New State** (detailed in [The Cycle of Emergence](the-cycle-of-emergence.md))
 
-PIF proposes that this cycle recurs across scales—in atoms, organisms, minds, and societies—suggesting a common architectural pattern underlying emergence.
+PIF proposes that this cycle recurs across scales—in atoms, organisms, minds, and societies—suggesting a common architectural pattern underlying emergence. For the historical foundations of this approach, see [Historical Lineage](historical-lineage.md).
 
 ---
 

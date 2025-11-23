@@ -203,6 +203,12 @@ $$\text{Interaction} \propto \text{Compatibility across Impedance, Frequency, an
 
 - **[Capacity](concept-capacity.md):** The limit beyond which a system must transform
 - **[State](concept-state.md):** The ratio of structure to chaos that defines current configuration
+- **[Universal Principles](../core-framework/universal-principles.md):** Resonance is central to Principle 2 (Relational Interaction)
+
+See also:
+- [Physical Foundation](../case-studies/physical-foundation.md): Resonance in thermodynamic interactions
+- [Biological Emergence](../case-studies/biological-emergence.md): Resonance between energy flow and chemical cycles
+- [Cognitive Emergence](../case-studies/cognitive-emergence.md): Resonance between neural modules
 
 ---
 

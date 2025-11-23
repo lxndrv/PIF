@@ -16,19 +16,19 @@ We need a **meta-theory**—a universal logic that reveals the deep patterns con
 
 The **Proportional Interaction Framework (PIF)** offers a lens for understanding how systems of any kind—physical, biological, cognitive, social—organize, interact, adapt, and transform.
 
-PIF is not a theory about physics, or chemistry, or biology. It is a **General Systems Theory** that proposes a set of patterns that may govern:
+PIF is not a theory about physics, or chemistry, or biology. It is a **[General Systems Theory](core-framework/historical-lineage.md)** that proposes a set of patterns that may govern:
 
 - **Structure and Change:** How systems maintain coherence while responding to disruption
-- **Interaction and Compatibility:** How agents couple based on resonance, scale, and fit
-- **Adaptation and Transformation:** How systems evolve through capacity thresholds
+- **Interaction and Compatibility:** How agents couple based on [resonance](definitions/concept-resonance.md), scale, and fit
+- **Adaptation and Transformation:** How systems evolve through [capacity](definitions/concept-capacity.md) thresholds
 
 ## The Core Insight
 
 At its heart, PIF suggests a organizing principle: **systems may be understood not only by what they are, but by the ratios that govern their behavior.**
 
-- A system's **state** can be characterized as the ratio of internal cohesion to external disruption
-- An interaction's **effectiveness** relates to the degree of compatibility versus mismatch
-- A transformation's **trigger** corresponds to the ratio of load to capacity
+- A system's **[state](definitions/concept-state.md)** can be characterized as the ratio of internal cohesion to external disruption
+- An interaction's **effectiveness** relates to the degree of [compatibility](definitions/concept-resonance.md) versus mismatch
+- A transformation's **trigger** corresponds to the ratio of load to [capacity](definitions/concept-capacity.md)
 
 PIF proposes that these proportional relationships recur across scales—from atoms to ecosystems, from neural networks to economies, in moments of stability and moments of phase transition.
 
@@ -62,20 +62,21 @@ This repository is organized into three main sections:
 
 ### [Core Framework](/core-framework)
 The foundational principles of PIF, articulated as universal systems logic:
-- **Universal Principles:** The three laws governing all complex systems
-- **The Cycle of Emergence:** How state, interaction, and response create feedback loops
+- **[Universal Principles](core-framework/universal-principles.md):** The three laws governing all complex systems
+- **[The Cycle of Emergence](core-framework/the-cycle-of-emergence.md):** How state, interaction, and response create feedback loops
+- **[Historical Lineage](core-framework/historical-lineage.md):** How PIF builds on General Systems Theory, Cybernetics, and Self-Organized Criticality
 
 ### [Case Studies](/case-studies)
 Demonstrations of PIF applied across domains:
-- **Biological Emergence:** Life as a system state where organization exceeds dissipation
-- **Cognitive Emergence:** Consciousness as an information integration phase transition
-- **Physical Foundation:** Thermodynamics and gravity as empirical proof-of-concept
+- **[Biological Emergence](case-studies/biological-emergence.md):** Life as a system state where organization exceeds dissipation
+- **[Cognitive Emergence](case-studies/cognitive-emergence.md):** Consciousness as an information integration phase transition
+- **[Physical Foundation](case-studies/physical-foundation.md):** Thermodynamics and gravity as empirical proof-of-concept
 
 ### [Definitions](/definitions)
 Precise articulations of key concepts:
-- **Capacity:** The limit of a system's ability to distribute stress or information
-- **Resonance:** Efficient coupling through compatibility and fit
-- **State:** A dynamic ratio of structure versus chaos
+- **[Capacity](definitions/concept-capacity.md):** The limit of a system's ability to distribute stress or information
+- **[Resonance](definitions/concept-resonance.md):** Efficient coupling through compatibility and fit
+- **[State](definitions/concept-state.md):** A dynamic ratio of structure versus chaos
 
 ---
 

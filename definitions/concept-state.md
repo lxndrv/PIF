@@ -190,6 +190,13 @@ $$\text{State} = \frac{\text{Cohesion}}{\text{Disruption}}$$
 
 - **[Capacity](concept-capacity.md):** The threshold at which state is forced to transition
 - **[Resonance](concept-resonance.md):** The compatibility that determines what can interact with the current state
+- **[Universal Principles](../core-framework/universal-principles.md):** State is Principle 1 of PIF's core framework
+- **[The Cycle of Emergence](../core-framework/the-cycle-of-emergence.md):** State as Phase 1 of the feedback loop
+
+See also:
+- [Physical Foundation](../case-studies/physical-foundation.md): State transitions in matter (solid/liquid/gas)
+- [Biological Emergence](../case-studies/biological-emergence.md): Life as a thermodynamic state
+- [Cognitive Emergence](../case-studies/cognitive-emergence.md): Consciousness as an integration state
 
 ---
 

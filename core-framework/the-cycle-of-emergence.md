@@ -1,6 +1,6 @@
 # The Cycle of Emergence
 
-The three universal principles do not operate in isolation. They form a **continuous feedback loop** that drives the evolution of all complex systems.
+The [three universal principles](universal-principles.md) do not operate in isolation. They form a **continuous feedback loop** that drives the evolution of all complex systems.
 
 ---
 
@@ -18,7 +18,7 @@ This is not a one-time process—it is a perpetual cycle. Each new state becomes
 
 ## Phase 1: State (The Starting Condition)
 
-**A system exists in a particular state—a ratio of structure to chaos.**
+**A system exists in a particular [state](../definitions/concept-state.md)—a ratio of structure to chaos.**
 
 This state defines:
 - How cohesive or dispersed the system is
@@ -36,7 +36,7 @@ This state defines:
 
 **The system encounters inputs from its environment—but only those that match its properties can couple.**
 
-Not all inputs interact equally. The system filters based on:
+Not all inputs interact equally. The system filters based on [resonance](../definitions/concept-resonance.md):
 - **Impedance:** Can the input even reach the system's active sites?
 - **Resonance:** Does the input operate on a compatible frequency or timescale?
 - **Scale:** Is the input at the right level of organization to be processed?
@@ -52,7 +52,7 @@ Not all inputs interact equally. The system filters based on:
 
 ## Phase 3: Response (The Adaptation or Transformation)
 
-**The system responds to the interaction—elastically if below capacity, catastrophically if beyond it.**
+**The system responds to the interaction—elastically if below [capacity](../definitions/concept-capacity.md), catastrophically if beyond it.**
 
 ### Below Capacity: Elastic Adaptation
 - The system absorbs the input and adjusts proportionally
@@ -168,5 +168,8 @@ This cycle appears to recur across scales—a rhythm that PIF suggests may be fu
 
 ---
 
-**Next:** Explore the [Case Studies](../case-studies) to see this cycle in action across physical, biological, and cognitive domains.
+**Next:** Explore the [Case Studies](../case-studies) to see this cycle in action:
+- [Biological Emergence](../case-studies/biological-emergence.md): Life as organization exceeding dissipation
+- [Cognitive Emergence](../case-studies/cognitive-emergence.md): Consciousness as integration exceeding modular capacity  
+- [Physical Foundation](../case-studies/physical-foundation.md): Thermodynamics and gravity as empirical grounding
 

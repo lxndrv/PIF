@@ -10,7 +10,7 @@ The origin of life—abiogenesis—is often framed as a profound mystery. How di
 
 These questions assume life is a fundamentally different kind of thing from non-life, requiring a special explanation.
 
-**The Proportional Interaction Framework offers a different perspective:** Life may not be a substance but a **state**—characterized by a particular ratio of organizational rate to dissipation rate. Seen through this lens, when the conditions are right, chemistry may cross a threshold into self-organizing behavior following the same proportional logic that governs other complex systems.
+**The Proportional Interaction Framework offers a different perspective:** Life may not be a substance but a **[state](../definitions/concept-state.md)**—characterized by a particular ratio of organizational rate to dissipation rate. Seen through this lens, when the conditions are right, chemistry may cross a threshold into self-organizing behavior following the same proportional logic that governs other complex systems (see [Universal Principles](../core-framework/universal-principles.md)).
 
 ---
 
@@ -40,6 +40,8 @@ Life did not "begin" at a single moment. It emerged gradually as chemical system
 
 ## The Mechanism: How Chemistry Was Forced to Organize
 
+Following [the cycle of emergence](../core-framework/the-cycle-of-emergence.md):
+
 ### Phase 1: State (Pre-Biotic Chemistry)
 
 Before life, Earth's chemistry existed in a relatively high-chaos state:
@@ -49,7 +51,7 @@ Before life, Earth's chemistry existed in a relatively high-chaos state:
 
 ### Phase 2: Interaction (Resonance with Energy Flow)
 
-Certain environments provided **resonant conditions** where energy flow matched chemical cycle timescales:
+Certain environments provided **[resonant conditions](../definitions/concept-resonance.md)** where energy flow matched chemical cycle timescales:
 
 **Example: Hydrothermal Vents**
 - Heat from Earth's interior creates temperature gradients
@@ -60,7 +62,7 @@ Certain environments provided **resonant conditions** where energy flow matched 
 
 ### Phase 3: Response (Capacity Overload)
 
-As energy flowed through these chemical systems, they reached a **capacity threshold:**
+As energy flowed through these chemical systems, they reached a **[capacity threshold](../definitions/concept-capacity.md):**
 
 - Simple reactions could not dissipate the energy fast enough
 - The system was forced to find a more efficient pathway: **self-replication**

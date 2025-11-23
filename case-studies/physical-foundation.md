@@ -8,9 +8,9 @@
 
 While the Proportional Interaction Framework is presented as a **General Systems Theory**—applicable to any domain—it is essential to demonstrate that this logic is not merely philosophical speculation. It is empirically grounded in the most fundamental processes of the physical universe.
 
-This case study provides that grounding by showing how PIF's principles manifest in two foundational physical phenomena:
+This case study provides that grounding by showing how [PIF's principles](../core-framework/universal-principles.md) manifest in two foundational physical phenomena:
 
-1. **Thermodynamics:** Phase transitions as capacity thresholds
+1. **Thermodynamics:** Phase transitions as [capacity thresholds](../definitions/concept-capacity.md)
 2. **Gravity:** General Relativity as linear response, Quantum Foam as non-linear response
 
 These are not analogies. They are **direct applications** of the same proportional logic that governs life and mind.
@@ -33,7 +33,7 @@ Consider the most familiar phase transition: water boiling.
 
 #### Principle 1: Proportional State
 
-The state of water is defined by the ratio:
+The [state](../definitions/concept-state.md) of water is defined by the ratio:
 
 $$\text{State} = \frac{\text{Intermolecular Bonding Energy}}{\text{Kinetic Energy}}$$
 
@@ -45,7 +45,7 @@ State is not a fixed property—it is a dynamic ratio recalculated as energy is 
 
 #### Principle 2: Relational Interaction
 
-Heat does not interact uniformly with all materials. The effectiveness depends on **resonance:**
+Heat does not interact uniformly with all materials. The effectiveness depends on **[resonance](../definitions/concept-resonance.md):**
 
 - **Specific Heat Capacity:** Different substances absorb energy at different rates (water has high capacity, metals have low)
 - **Molecular Structure:** Hydrogen bonding in water creates resistance (high latent heat of vaporization)
@@ -54,7 +54,7 @@ The interaction between heat and water is **relational**, not universal.
 
 #### Principle 3: Capacity Threshold
 
-The transition at 100°C represents a **capacity threshold:**
+The transition at 100°C represents a **[capacity threshold](../definitions/concept-capacity.md):**
 
 - **Load:** Kinetic energy from heat
 - **Capacity:** The strength of hydrogen bonds holding water molecules together
@@ -107,7 +107,7 @@ Spacetime is not a fixed background—it is a dynamic medium responding to energ
 
 #### Principle 2: Relational Interaction
 
-Energy does not interact uniformly with spacetime. The effectiveness depends on **scale and resonance:**
+Energy does not interact uniformly with spacetime. The effectiveness depends on **scale and [resonance](../definitions/concept-resonance.md):**
 
 - **Macroscopic scales (planets, stars):** General Relativity governs—smooth, predictable curvature
 - **Microscopic scales (particles):** Quantum mechanics governs—discrete, probabilistic
@@ -197,5 +197,8 @@ Once you see this pattern in physics, similar structures become visible in other
 
 ---
 
-**Next:** Explore the [Definitions](../definitions) to understand the precise meanings of key concepts like Capacity, Resonance, and State.
+**Next:** Explore the [Definitions](../definitions) to understand the precise meanings of key concepts:
+- [Capacity](../definitions/concept-capacity.md): The threshold limit
+- [Resonance](../definitions/concept-resonance.md): Compatibility-based interaction
+- [State](../definitions/concept-state.md): The structure/chaos ratio
 

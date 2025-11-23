@@ -26,9 +26,9 @@ Ludwig von Bertalanffy established the foundational principle that systems acros
 
 PIF builds directly on von Bertalanffy's open systems logic but adds **specific proportional constraints:**
 
-1. **Quantitative Ratios:** Where GST identified qualitative patterns (e.g., "systems seek equilibrium"), PIF proposes that system behavior is governed by **ratios** (Structure/Chaos, Load/Capacity)
+1. **Quantitative Ratios:** Where GST identified qualitative patterns (e.g., "systems seek equilibrium"), PIF proposes that system behavior is governed by **ratios** ([Structure/Chaos](../definitions/concept-state.md), [Load/Capacity](../definitions/concept-capacity.md))
 
-2. **Threshold Dynamics:** GST described adaptation, but PIF specifies that systems operate in distinct regimes separated by **capacity thresholds**—crossing these thresholds forces qualitative transformation
+2. **Threshold Dynamics:** GST described adaptation, but PIF specifies that systems operate in distinct regimes separated by **[capacity thresholds](../definitions/concept-capacity.md)**—crossing these thresholds forces qualitative transformation
 
 3. **Phase Transitions:** PIF frames emergence not as gradual accumulation but as **forced phase transitions** when proportional limits are exceeded
 
@@ -48,7 +48,7 @@ Cybernetics introduced the concept of **feedback loops** as the fundamental mech
 
 ### How PIF Extends Cybernetics
 
-PIF adopts the feedback loop architecture (State → Interaction → Response → New State) but focuses on a dimension cybernetics underemphasized: **phase transition thresholds.**
+PIF adopts the feedback loop architecture ([State → Interaction → Response → New State](the-cycle-of-emergence.md)) but focuses on a dimension cybernetics underemphasized: **phase transition thresholds.**
 
 1. **Beyond Homeostasis:** Cybernetics focused on how systems *maintain* their current state. PIF asks: *When are systems forced to abandon their current state?*
 
@@ -94,10 +94,10 @@ PIF's **Capacity Threshold** principle is a direct descendant of Bak's critical 
 Thom's catastrophe theory described how smooth changes in parameters can lead to sudden discontinuous changes in system behavior. PIF's phase transitions are consistent with this, framing capacity thresholds as the "catastrophe points."
 
 ### Dissipative Structures (Ilya Prigogine, 1977)
-Prigogine showed that open systems far from equilibrium can spontaneously self-organize. PIF's treatment of life as "Organization Rate > Dissipation Rate" directly extends Prigogine's work, adding the proportional constraint.
+Prigogine showed that open systems far from equilibrium can spontaneously self-organize. PIF's treatment of [life as "Organization Rate > Dissipation Rate"](../case-studies/biological-emergence.md) directly extends Prigogine's work, adding the proportional constraint.
 
 ### Integrated Information Theory (Giulio Tononi, 2004)
-PIF's treatment of consciousness as an integration threshold builds on Tononi's Φ (phi) measure. PIF adds the threshold logic: consciousness emerges when integration demand exceeds modular capacity.
+PIF's treatment of [consciousness as an integration threshold](../case-studies/cognitive-emergence.md) builds on Tononi's Φ (phi) measure. PIF adds the threshold logic: consciousness emerges when integration demand exceeds modular capacity.
 
 ---
 
@@ -107,9 +107,9 @@ Given this lineage, what is PIF's unique contribution?
 
 ### 1. Proportional Architecture
 PIF proposes that the commonality across systems is not just feedback or criticality, but **proportional relationships:**
-- State as a ratio (Structure/Chaos)
-- Interaction as compatibility matching (Resonance)
-- Transformation as threshold crossing (Load/Capacity)
+- [State](../definitions/concept-state.md) as a ratio (Structure/Chaos)
+- [Interaction](../definitions/concept-resonance.md) as compatibility matching (Resonance)
+- Transformation as threshold crossing ([Load/Capacity](../definitions/concept-capacity.md))
 
 ### 2. Unified Threshold Mechanics
 PIF suggests that phase transitions in physical, biological, and cognitive systems follow the same threshold logic, enabling cross-domain prediction and analogy.
@@ -146,5 +146,5 @@ This framework is offered not as a "Theory of Everything," but as a **lens**—a
 
 ---
 
-**Next:** Return to the [Core Framework](universal-principles.md) to see how these historical insights crystallize into PIF's three universal principles.
+**Next:** Return to the [Universal Principles](universal-principles.md) to see how these historical insights crystallize into PIF's three core principles, or explore [The Cycle of Emergence](the-cycle-of-emergence.md) to understand the feedback loop architecture.
 

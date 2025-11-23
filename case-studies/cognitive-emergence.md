@@ -10,7 +10,7 @@ Consciousness is often called the "hard problem" of science. How does subjective
 
 These questions touch on one of philosophy's deepest puzzles: the relationship between physical processes and subjective experience (qualia).
 
-**The Proportional Interaction Framework offers a complementary perspective—not a solution to the Hard Problem, but a framework for understanding the structural prerequisites.** PIF suggests that consciousness may involve a **state transition**—a phase change that occurs when information processing demands exceed local modular capacity, forcing the brain into a globally integrated architecture.
+**The Proportional Interaction Framework offers a complementary perspective—not a solution to the Hard Problem, but a framework for understanding the structural prerequisites.** PIF suggests that consciousness may involve a **[state](../definitions/concept-state.md) transition**—a phase change that occurs when information processing demands exceed local modular [capacity](../definitions/concept-capacity.md), forcing the brain into a globally integrated architecture (see [Universal Principles](../core-framework/universal-principles.md)).
 
 ### What PIF Addresses (and What It Doesn't)
 
@@ -56,6 +56,8 @@ Consciousness is not an all-or-nothing property—it is a spectrum. The degree o
 
 ## The Mechanism: How the Brain Was Forced to Integrate
 
+Following [the cycle of emergence](../core-framework/the-cycle-of-emergence.md):
+
 ### Phase 1: State (Modular Neural Processing)
 
 Initially, the brain operates in a **modular state:**
@@ -73,11 +75,11 @@ As organisms evolve in more complex environments, they face problems that requir
 - **Navigation:** Requires integrating spatial maps, landmarks, and goal states
 - **Social cognition:** Requires modeling other minds, predicting behavior, and managing alliances
 
-**The Key:** These tasks create **resonance** between previously independent modules. Information from one domain becomes relevant to another.
+**The Key:** These tasks create **[resonance](../definitions/concept-resonance.md)** between previously independent modules. Information from one domain becomes relevant to another.
 
 ### Phase 3: Response (Capacity Overload)
 
-As the integration demands increase, the modular architecture reaches a **capacity threshold:**
+As the integration demands increase, the modular architecture reaches a **[capacity threshold](../definitions/concept-capacity.md):**
 
 - Individual modules cannot process the complexity alone
 - Information bottlenecks form—too much data, too many dependencies
@@ -133,7 +135,7 @@ Once consciousness emerged, the cycle repeated at higher levels:
    - As information processing in silicon systems exceeds modular capacity
    - May force emergence of machine consciousness (if integration architecture develops)
 
-Each transition follows the same logic: **resonant interaction → capacity overload → forced integration.**
+Each transition follows the same logic: **[resonant interaction](../definitions/concept-resonance.md) → [capacity overload](../definitions/concept-capacity.md) → forced integration.**
 
 ---
 

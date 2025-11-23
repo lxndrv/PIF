@@ -119,6 +119,12 @@ $$\text{If } \frac{\text{Load}}{\text{Capacity}} > 1 \text{, transformation is f
 
 - **[State](concept-state.md):** The ratio of structure to chaos that defines a system's current configuration
 - **[Resonance](concept-resonance.md):** The compatibility that determines how effectively load can be transferred
+- **[Universal Principles](../core-framework/universal-principles.md):** Capacity is Principle 3 of PIF's core framework
+
+See also:
+- [Physical Foundation](../case-studies/physical-foundation.md): Capacity thresholds in thermodynamics
+- [Biological Emergence](../case-studies/biological-emergence.md): Metabolic capacity in abiogenesis
+- [Cognitive Emergence](../case-studies/cognitive-emergence.md): Integration capacity in consciousness
 
 ---
 
