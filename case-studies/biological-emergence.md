@@ -10,24 +10,25 @@ The origin of life—abiogenesis—is often framed as a profound mystery. How di
 
 These questions assume life is a fundamentally different kind of thing from non-life, requiring a special explanation.
 
-**The Proportional Interaction Framework offers a different perspective:** Life is not a substance. It is a **state**—a particular ratio of organizational rate to dissipation rate. When the conditions are right, chemistry is forced into this state by the same logic that governs all complex systems.
+**The Proportional Interaction Framework offers a different perspective:** Life may not be a substance but a **state**—characterized by a particular ratio of organizational rate to dissipation rate. Seen through this lens, when the conditions are right, chemistry may cross a threshold into self-organizing behavior following the same proportional logic that governs other complex systems.
 
 ---
 
-## Life as a State
+## Life as a Thermodynamic State
 
-### The Defining Ratio
+### The Necessary Condition
 
-A living system is one where:
+PIF proposes that a living system requires:
 
 $$\frac{\text{Organization Rate}}{\text{Dissipation Rate}} > 1$$
 
-In other words:
+Where:
 - **Organization Rate:** The rate at which the system builds structure, concentrates energy, and increases internal complexity
 - **Dissipation Rate:** The rate at which entropy disperses the system, breaks bonds, and scatters components
 
-**If organization > dissipation, the system is "alive."**  
-**If dissipation > organization, the system is "dead."**
+**This ratio is proposed as a necessary thermodynamic condition for life**, not a complete definition. When organization exceeds dissipation, the system can maintain and build complexity. When dissipation exceeds organization, the system degrades.
+
+This is a **boundary condition** for abiogenesis—it sets the thermodynamic requirements—but it does not replace biological explanations of replication, metabolism, or evolution. Life requires both the thermodynamic conditions *and* the molecular machinery.
 
 ### Key Insight
 
@@ -79,7 +80,7 @@ Now the system:
 - Creates internal barriers (membranes) to maintain gradients
 - Evolves mechanisms to capture and channel energy (metabolism)
 
-**This is life.**
+**This satisfies the thermodynamic criteria for life.** Whether this constitutes a complete definition of life is a deeper question—but it establishes the necessary physical conditions.
 
 ---
 
@@ -129,21 +130,21 @@ This framework aligns with recent findings:
 - **Protocells:** Fatty acid vesicles with enclosed RNA can grow, divide, and evolve without enzymes
 - **Synthetic biology:** Minimal genomes (~500 genes) can sustain life, suggesting the threshold is lower than expected
 
-Life is not a miracle encoded in a specific molecule. It is a **state that chemistry enters when forced by resonant energy flow beyond organizational capacity.**
+Seen through this lens, life may not be a miracle encoded in a specific molecule, but rather a **state that chemistry can enter when conditions allow organization to exceed dissipation.** The specific molecular machinery (DNA, proteins, etc.) is Earth's particular implementation—but the underlying thermodynamic principle may be more general.
 
 ---
 
 ## The Deep Implication
 
-If life is a state, not a substance, then:
+If we frame life as a thermodynamic state rather than a specific substance, several implications follow:
 
-- **The origin of life is a phase transition,** not a unique event
-- **Life is inevitable** in environments where organization rate can exceed dissipation rate
-- **The distinction between living and non-living is contextual,** not absolute
+- **The origin of life may be a phase transition,** not a unique miraculous event
+- **Life may emerge reliably** in environments where conditions permit organization rate to exceed dissipation rate
+- **The distinction between living and non-living may be gradual,** not absolute—a spectrum rather than a binary
 
-This reframes biology: instead of asking "What is alive?", we ask "Under what conditions does a system enter the life state?"
+This reframes the question: instead of asking "What is alive?", we might ask "Under what thermodynamic conditions can self-organizing systems sustain themselves?"
 
-This is a systems question, not a chemical one. And it is answerable using the universal principles of PIF.
+This is a systems perspective that complements molecular biology. PIF suggests the boundary conditions; biochemistry fills in the mechanisms.
 
 ---
 

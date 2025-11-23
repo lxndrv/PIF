@@ -12,11 +12,11 @@ But reality is not fragmented. The atom does not "end" where the molecule "begin
 
 We need a **meta-theory**—a universal logic that reveals the deep patterns connecting the microscopic to the macroscopic, the simple to the complex, the inanimate to the living and thinking.
 
-## The Solution: A Universal Architecture
+## The Solution: A Unifying Lens
 
-The **Proportional Interaction Framework (PIF)** offers a unified lens for understanding how systems of any kind—physical, biological, cognitive, social—organize, interact, adapt, and transform.
+The **Proportional Interaction Framework (PIF)** offers a lens for understanding how systems of any kind—physical, biological, cognitive, social—organize, interact, adapt, and transform.
 
-PIF is not a theory about physics, or chemistry, or biology. It is a **General Systems Theory** that describes the fundamental patterns governing:
+PIF is not a theory about physics, or chemistry, or biology. It is a **General Systems Theory** that proposes a set of patterns that may govern:
 
 - **Structure and Change:** How systems maintain coherence while responding to disruption
 - **Interaction and Compatibility:** How agents couple based on resonance, scale, and fit
@@ -24,22 +24,37 @@ PIF is not a theory about physics, or chemistry, or biology. It is a **General S
 
 ## The Core Insight
 
-At its heart, PIF reveals a simple truth: **systems are defined not by what they are, but by the ratios that govern their behavior.**
+At its heart, PIF suggests a organizing principle: **systems may be understood not only by what they are, but by the ratios that govern their behavior.**
 
-- A system's **state** is the ratio of internal cohesion to external disruption
-- An interaction's **effectiveness** is the ratio of compatibility to mismatch
-- A transformation's **trigger** is the ratio of load to capacity
+- A system's **state** can be characterized as the ratio of internal cohesion to external disruption
+- An interaction's **effectiveness** relates to the degree of compatibility versus mismatch
+- A transformation's **trigger** corresponds to the ratio of load to capacity
 
-These ratios are universal. They apply to atoms and ecosystems, to neural networks and economies, to moments of stability and moments of phase transition.
+PIF proposes that these proportional relationships recur across scales—from atoms to ecosystems, from neural networks to economies, in moments of stability and moments of phase transition.
+
+### The Cycle Visualized
+
+```mermaid
+graph TD
+    A[State] -->|Defined by Ratio| B(Structure / Chaos)
+    B --> C{Interaction}
+    C -->|Input| D[Load]
+    D -->|Check against| E[Capacity Threshold]
+    E -->|Load < Capacity| F[Linear Response: Adaptation]
+    F --> A
+    E -->|Load > Capacity| G[Non-Linear Response: Phase Change]
+    G -->|Emergence| H[New System State]
+    H --> A
+```
 
 ## Why This Matters
 
-The Proportional Interaction Framework provides:
+The Proportional Interaction Framework may provide:
 
 1. **Unification:** A common language to bridge quantum mechanics, thermodynamics, biology, and cognition
-2. **Prediction:** A framework for anticipating when systems will adapt and when they will transform
-3. **Design:** Principles for engineering resilient, adaptive systems across any domain
-4. **Understanding:** A mental model for seeing the deep patterns that connect all scales of organization
+2. **Pattern Recognition:** A lens for identifying when systems may adapt and when they may transform
+3. **Design Principles:** Heuristics for engineering resilient, adaptive systems across domains
+4. **Conceptual Integration:** A mental model for recognizing structural patterns that recur across scales of organization
 
 ## What You'll Find Here
 
@@ -70,6 +85,44 @@ Begin with the [Universal Principles](/core-framework/universal-principles.md) t
 
 For concrete examples, dive into the [Case Studies](/case-studies) to see how the same logic manifests across physical, biological, and cognitive domains.
 
+To understand how PIF builds on prior systems science, read the [Historical Lineage](/core-framework/historical-lineage.md) connecting this work to General Systems Theory, Cybernetics, and Self-Organized Criticality.
+
+## Current Limitations & Research Horizons
+
+While PIF offers a compelling lens for understanding cross-domain patterns, it is important to acknowledge its current limitations:
+
+### 1. Measurement Challenges
+
+Defining and quantifying ratios like "Organization Rate/Dissipation Rate" or "Structure/Chaos" in real-world complex systems remains an open research problem. While these concepts are conceptually clear, operationalizing them with the precision achieved in physics is non-trivial. Each domain requires careful work to identify appropriate metrics and validation methods.
+
+### 2. Isomorphism vs. Mechanism
+
+PIF identifies **structural similarities** (isomorphisms) across domains—patterns that repeat at different scales. However, structural similarity does not necessarily imply identical underlying mechanisms. 
+
+For example, a liquid boiling and a cell dividing may both exhibit threshold-crossing behavior (Load > Capacity → Phase Transition), but the physical processes are fundamentally different. PIF suggests these are **analogous** structures, not **identical** processes.
+
+This distinction is crucial: PIF is a framework for recognizing patterns, not a claim that "everything is the same thing."
+
+### 3. Predictive Precision
+
+PIF currently offers primarily **qualitative predictions** (e.g., "when load exceeds capacity, transformation is forced"). Achieving quantitative, falsifiable predictions comparable to those in physics remains an aspiration. 
+
+The framework's value lies in:
+- Guiding intuition about system behavior
+- Suggesting where to look for thresholds and transitions
+- Providing a common vocabulary across disciplines
+
+Future work must develop domain-specific instantiations with measurable variables and testable hypotheses.
+
+### 4. Scope and Applicability
+
+Not all systems may be well-described by proportional logic. PIF is most applicable to:
+- Systems with identifiable structure and disruption forces
+- Systems that exhibit threshold behavior
+- Systems where feedback loops and adaptation are central
+
+Its applicability to fundamentally stochastic or quantum-indeterminate systems remains an open question.
+
 ## Contributing
 
 This is a living framework. If you see applications to new domains, refinements to the principles, or additional case studies that strengthen the theory, your contributions are welcome.
@@ -80,5 +133,5 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC-
 
 ---
 
-*The universe is not a collection of separate things. It is a unified system operating on proportional logic. Once you see the pattern, you cannot unsee it.*
+*What if the patterns we see at one scale echo at others? What if thresholds, ratios, and transformations are not accidents, but structural features of complex systems? PIF invites you to look for these patterns—and decide for yourself.*
 

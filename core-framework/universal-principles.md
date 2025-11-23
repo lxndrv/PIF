@@ -1,6 +1,6 @@
 # Universal Principles
 
-The Proportional Interaction Framework rests on three foundational principles. These are not laws specific to physics or biology—they are universal patterns that govern how any system organizes, interacts, and transforms.
+The Proportional Interaction Framework proposes three foundational principles. These are not laws specific to physics or biology—they are proposed as patterns that may recur across systems at different scales, governing how systems organize, interact, and transform.
 
 ---
 
@@ -73,7 +73,7 @@ Every system has a **capacity**—a maximum amount of load (stress, information,
 
 - **Linear Regime (Load < Capacity):** The system responds elastically, predictably, proportionally
 - **Threshold (Load ≈ Capacity):** The system is at the edge, small changes have large effects
-- **Non-Linear Regime (Load > Capacity):** The system can no longer maintain its current state and must transform
+- **Non-Linear Regime (Load > Capacity):** The system can no longer maintain its current state and is forced to transform
 
 The **response** depends on the ratio of load to capacity:
 
@@ -100,26 +100,26 @@ What we call "breaking" is not destruction—it is a forced response to overload
 
 These three principles are not independent—they interact:
 
-1. **State** determines how a system will respond to the world
-2. **Interaction** determines what inputs the system can actually process
-3. **Capacity** determines when the system will be forced to transform
+1. **State** influences how a system responds to the world
+2. **Interaction** determines what inputs the system can effectively process
+3. **Capacity** determines when the system may be forced to transform
 
-Together, they create a feedback loop: **State → Interaction → Response → New State**
+Together, they suggest a feedback loop: **State → Interaction → Response → New State**
 
-This cycle is universal. It governs atoms, organisms, minds, and societies. It is the deep architecture of emergence.
+PIF proposes that this cycle recurs across scales—in atoms, organisms, minds, and societies—suggesting a common architectural pattern underlying emergence.
 
 ---
 
 ## Why This Matters
 
-Understanding these principles allows us to:
+If these principles hold across domains, they may allow us to:
 
 - **Diagnose:** Identify when a system is approaching a capacity threshold
-- **Predict:** Anticipate phase transitions before they occur
+- **Predict:** Anticipate potential phase transitions before they occur
 - **Design:** Engineer systems that are resilient, adaptive, and capable of controlled transformation
-- **Unify:** See the same patterns operating across wildly different domains
+- **Unify:** Recognize similar patterns operating across different domains
 
-The universe does not operate on separate rules for different scales. It operates on proportional logic—and once you see it, the connections become undeniable.
+PIF suggests that proportional logic may be a common feature across scales. Whether this represents a deep truth about nature or a useful analogy remains an open question—but the patterns are worth exploring.
 
 ---
 

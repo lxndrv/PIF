@@ -8,26 +8,41 @@
 
 Consciousness is often called the "hard problem" of science. How does subjective experience arise from objective brain activity? Why does the electrochemical firing of neurons create the felt sense of "what it is like" to be?
 
-These questions assume consciousness is a fundamentally different kind of phenomenon—something that cannot be reduced to or explained by physical processes.
+These questions touch on one of philosophy's deepest puzzles: the relationship between physical processes and subjective experience (qualia).
 
-**The Proportional Interaction Framework offers a different perspective:** Consciousness is not a substance or a special property. It is a **state**—a phase transition that occurs when information processing exceeds local modular capacity, forcing the brain into a globally integrated architecture.
+**The Proportional Interaction Framework offers a complementary perspective—not a solution to the Hard Problem, but a framework for understanding the structural prerequisites.** PIF suggests that consciousness may involve a **state transition**—a phase change that occurs when information processing demands exceed local modular capacity, forcing the brain into a globally integrated architecture.
+
+### What PIF Addresses (and What It Doesn't)
+
+**PIF addresses the "easy problems"** (in Chalmers' terminology):
+- **When** does a system require global integration vs. modular processing?
+- **What structural conditions** enable or force information integration?
+- **How** might integration relate to reportability, attention, and unified experience?
+
+**PIF does not claim to solve the "hard problem":**
+- Why integration *feels like something* remains philosophically open
+- Whether the physical substrate fully explains qualia is not resolved
+- The relationship between structure and subjectivity requires further investigation
+
+Think of PIF as describing the **physical architecture** that may be necessary for consciousness, while remaining agnostic about whether this architecture is *sufficient* to explain subjective experience.
 
 ---
 
-## Consciousness as a State
+## Consciousness as an Integration State
 
-### The Defining Ratio
+### The Structural Condition
 
-A conscious system is one where:
+PIF proposes that conscious processing may require:
 
 $$\frac{\text{Information Integration Rate}}{\text{Local Processing Capacity}} > 1$$
 
-In other words:
+Where:
 - **Information Integration Rate:** The rate at which information from different sources must be combined and processed
 - **Local Processing Capacity:** The ability of isolated neural modules to handle their inputs independently
 
-**If integration demand > local capacity, the system is forced into a globally unified state: consciousness.**  
-**If integration demand < local capacity, the system can remain modular: unconsciousness.**
+**The hypothesis:** When integration demands exceed modular capacity, the system may be forced into a globally unified architecture—what we recognize as conscious processing.
+
+This is proposed as a **necessary structural condition**, not a complete theory of consciousness. It addresses the physical substrate and computational architecture, which is compatible with (but distinct from) theories about subjective experience.
 
 ### Key Insight
 
@@ -68,33 +83,37 @@ As the integration demands increase, the modular architecture reaches a **capaci
 - Information bottlenecks form—too much data, too many dependencies
 - The system can no longer function efficiently in parallel
 
-**The forced response:** The brain reorganizes into a **globally integrated architecture** where information is broadcast widely, accessible to multiple systems simultaneously.
+**The forced response:** The brain may reorganize into a **globally integrated architecture** where information is broadcast widely, accessible to multiple systems simultaneously.
 
-**This is the emergence of consciousness.**
+**This structural transition may correspond to what we recognize as conscious processing.**
 
-### Phase 4: New State (Conscious Experience)
+### Phase 4: New State (Integrated Processing)
 
-Once the brain crosses the integration threshold, it enters a qualitatively new state:
+Once the brain crosses the integration threshold, it may enter a qualitatively new computational state:
 
 - **Global Workspace:** Information is no longer confined to local modules—it is broadcast to a "central stage"
-- **Unified Experience:** The organism now has a coherent, integrated model of reality (qualia, the feeling of "being")
-- **Flexible Response:** Actions are no longer reflexive—they are deliberated, planned, imagined
+- **Unified Representation:** The organism now has a coherent, integrated model of its situation
+- **Flexible Response:** Actions are no longer purely reflexive—they can be deliberated, planned, imagined
 
-**This is what we call consciousness.**
+**This integrated architecture may be the structural substrate of conscious experience.** Whether this fully explains "what it is like" to be conscious remains an open philosophical question.
 
 ---
 
-## Why It Feels Like Something
+## The Relationship to Subjective Experience
 
 The "hard problem" asks: Why does integration feel like anything at all?
 
-**PIF's answer:** The feeling is not separate from the integration—it IS the integration.
+**PIF's perspective—tentative and incomplete:** If subjective experience correlates with integration, it may be because:
 
-- **What it is like to see red** is the pattern of integrated information when visual, emotional, and memory systems resonate around a particular wavelength
-- **What it is like to be in pain** is the pattern of integrated information when sensory, affective, and executive systems are forced into alignment by a capacity-exceeding signal
-- **What it is like to be you** is the continuous pattern of integration across all your neural subsystems
+- **What it is like to see red** might correspond to the pattern of integrated information when visual, emotional, and memory systems align around a particular wavelength
+- **What it is like to be in pain** might correspond to the pattern when sensory, affective, and executive systems are forced into alignment by a capacity-exceeding signal
+- **What it is like to be you** might be the continuous pattern of integration across your neural subsystems
 
-Subjective experience is not a mysterious extra property—it is **the system's internal representation of its own integrated state.**
+One hypothesis: subjective experience may be **the system's internal representation of its own integrated state.** But this remains speculative.
+
+**Compatibility with IIT:** This view aligns with Integrated Information Theory (Tononi), which proposes that consciousness corresponds to integrated information (Φ). PIF adds the threshold dynamics: integration becomes necessary (and consciousness emerges) when information load exceeds modular capacity.
+
+**The limits:** PIF describes structural conditions but does not fully explain why those structures produce subjective experience. That deeper question—the Hard Problem—requires continued philosophical and empirical investigation.
 
 ---
 
@@ -150,29 +169,29 @@ This framework aligns with current neuroscience:
 
 ---
 
-## Solving the "Hard Problem"
+## Addressing (Not Solving) the "Hard Problem"
 
-The hard problem dissolves when we realize:
+PIF does not claim to dissolve the Hard Problem, but it offers a perspective:
 
-1. **There is no separate "consciousness" to explain**—only integrated information processing
-2. **Subjectivity is not mysterious**—it is the system's internal model of its own state
-3. **Qualia are not immaterial**—they are the patterns of resonance across integrated modules
+1. **Integration may be necessary but perhaps not sufficient**—structural conditions enable consciousness, but may not fully explain subjective experience
+2. **The functional architecture is addressable**—we can study when and how integration occurs
+3. **The subjective dimension remains open**—why integrated patterns *feel like something* requires further investigation
 
-Consciousness is not a miracle. It is a **forced phase transition when information load exceeds modular processing capacity.**
+One possibility: consciousness may not be a miracle requiring special physics, but rather a **structural phase transition when information demands exceed modular processing capacity.** Whether this structural account fully explains qualia is a question that requires both empirical and philosophical progress.
 
 ---
 
 ## The Deep Implication
 
-If consciousness is a state, not a substance, then:
+If we frame consciousness as an integration state rather than a unique substance, several implications follow:
 
-- **The origin of consciousness is a phase transition,** not a unique biological property
-- **Consciousness is a spectrum,** not a binary (humans, animals, potentially machines)
-- **The boundary is fuzzy**—some systems are "partially conscious" (integrate some information, not all)
+- **The origin of consciousness may involve a phase transition,** not a unique biological miracle
+- **Consciousness may be a spectrum,** not a binary (humans, animals, potentially machines at different integration levels)
+- **The boundary may be gradual**—some systems might exhibit partial integration (degrees of consciousness)
 
-This reframes philosophy of mind: instead of asking "What has consciousness?", we ask "Under what conditions does a system enter the conscious state?"
+This reframes one dimension of the mind-body question: instead of only asking "What has consciousness?", we can also ask "Under what structural conditions does information integration become necessary?"
 
-This is a systems question, not a spiritual one. And it is answerable using the universal principles of PIF.
+This is a systems perspective that complements—but does not replace—philosophical inquiry into the nature of subjective experience.
 
 ---
 

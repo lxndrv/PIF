@@ -111,7 +111,7 @@ $$\text{If } \frac{\text{Load}}{\text{Capacity}} > 1 \text{, transformation is f
 1. **Capacity is not weakness**—it is an architectural property. Every system has limits.
 2. **Exceeding capacity is not failure**—it is a forced transformation. The system adapts or breaks.
 3. **Capacity can be increased**—by adding pathways, improving efficiency, or restructuring.
-4. **Capacity thresholds are universal**—they govern every system at every scale.
+4. **Capacity thresholds may be universal**—PIF suggests they appear in systems across scales, though the specific manifestations differ.
 
 ---
 

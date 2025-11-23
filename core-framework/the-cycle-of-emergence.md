@@ -152,9 +152,9 @@ Understanding this cycle allows us to:
 - Both are following the same logic, just at different points in the cycle
 
 This means:
-- Stability is not permanent—it is a conditional state
-- Change is not random—it is a forced response to threshold crossing
-- Complexity is not miraculous—it is the inevitable result of iterated overload
+- Stability may not be permanent—it is a conditional state dependent on load relative to capacity
+- Change may not be random—it may be a forced response to threshold crossing
+- Complexity may not be miraculous—it may emerge from iterated capacity overload
 
 ---
 
@@ -164,7 +164,7 @@ The Cycle of Emergence is the engine of evolution, adaptation, and complexity. I
 
 **State. Interaction. Response. New State.**
 
-This is the rhythm of the universe.
+This cycle appears to recur across scales—a rhythm that PIF suggests may be fundamental to how complex systems evolve.
 
 ---
 

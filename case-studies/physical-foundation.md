@@ -193,7 +193,7 @@ Physics is not just an analogy for PIF—it is the **foundation.**
 
 The same logic that makes water boil makes life organize and consciousness integrate. The same capacity thresholds that govern spacetime govern societies and ecosystems.
 
-Once you see the pattern in physics, you cannot unsee it in everything else.
+Once you see this pattern in physics, similar structures become visible in other domains—inviting the question of whether these similarities reflect deep principles or useful analogies.
 
 ---
 

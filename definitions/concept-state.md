@@ -10,7 +10,7 @@
 
 It is continuously recalculated based on the system's internal organization and external environment.
 
-In PIF, state is universal: it applies to atoms, organisms, minds, organizations, and societies.
+In PIF, state is proposed as a cross-domain concept: it may apply to atoms, organisms, minds, organizations, and societies—though the specific metrics differ by domain.
 
 ---
 

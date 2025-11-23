@@ -8,9 +8,23 @@
 
 **Resonance** is the degree of compatibility between two agents or systems that determines how efficiently they can interact and transfer energy, information, or influence.
 
-It is not a yes/no property—it is a **continuous spectrum** from perfect mismatch (no interaction) to perfect match (maximum coupling).
+### Beyond Acoustics
 
-In PIF, resonance generalizes beyond its acoustic origins to describe **any form of compatibility-based interaction.**
+While the term "resonance" originates in physics (tuning forks, sound waves), PIF generalizes it to describe **any form of compatibility-based interaction across domains:**
+
+- **In physics:** Frequency matching enables efficient energy transfer
+- **In communication:** Shared protocols enable efficient information transfer  
+- **In chemistry:** Shape complementarity enables efficient molecular binding
+- **In cognition:** Conceptual alignment enables efficient knowledge transfer
+- **In social systems:** Value alignment enables efficient coordination
+
+The common thread: **efficient coupling requires compatibility.** Without it, energy, information, or influence is reflected, absorbed ineffectively, or lost.
+
+### Core Principle
+
+Resonance can be understood as **"Impedance Matching"** in the broadest sense—ensuring that two systems can interface effectively. When impedances match, transfer is efficient. When they mismatch, interaction fails or degrades.
+
+It is not a yes/no property—it is a **continuous spectrum** from perfect mismatch (no interaction) to perfect match (maximum coupling).
 
 ---
 
@@ -18,11 +32,19 @@ In PIF, resonance generalizes beyond its acoustic origins to describe **any form
 
 **Not all interactions are equal.** Two entities can be in physical proximity, yet fail to interact meaningfully if their properties do not align.
 
+**You cannot interact with a system if you do not share its scale, protocol, or language.**
+
+This is true whether the "system" is:
+- An atom (requires matching energy levels)
+- A cell (requires matching chemical signals)  
+- A mind (requires matching conceptual frameworks)
+- A society (requires matching cultural norms)
+
 Resonance captures this fundamental principle:
 
 $$\text{Interaction Efficiency} \propto \text{Resonance}$$
 
-Where resonance is determined by compatibility across multiple dimensions.
+Where resonance is determined by compatibility across multiple dimensions—what engineers call "impedance matching," what biologists call "receptor-ligand fit," and what communicators call "shared understanding."
 
 ---
 
@@ -173,7 +195,7 @@ $$\text{Interaction} \propto \text{Compatibility across Impedance, Frequency, an
 1. **Resonance is not proximity**—two entities can be close yet fail to interact if mismatched
 2. **Resonance is multi-dimensional**—match in one dimension (e.g., scale) doesn't guarantee match in others (e.g., frequency)
 3. **Resonance can be engineered**—we can design systems to maximize compatibility (e.g., drug design, interface design)
-4. **Resonance is universal**—the same principle governs atoms, cells, minds, and societies
+4. **Resonance may be universal**—similar compatibility principles appear to govern interactions in atoms, cells, minds, and societies
 
 ---
 
