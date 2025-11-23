@@ -20,9 +20,7 @@ These questions assume consciousness is a fundamentally different kind of phenom
 
 A conscious system is one where:
 
-\[
-\frac{\text{Information Integration Rate}}{\text{Local Processing Capacity}} > 1
-\]
+$$\frac{\text{Information Integration Rate}}{\text{Local Processing Capacity}} > 1$$
 
 In other words:
 - **Information Integration Rate:** The rate at which information from different sources must be combined and processed

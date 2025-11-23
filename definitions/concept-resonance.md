@@ -20,9 +20,7 @@ In PIF, resonance generalizes beyond its acoustic origins to describe **any form
 
 Resonance captures this fundamental principle:
 
-\[
-\text{Interaction Efficiency} \propto \text{Resonance}
-\]
+$$\text{Interaction Efficiency} \propto \text{Resonance}$$
 
 Where resonance is determined by compatibility across multiple dimensions.
 
@@ -83,9 +81,7 @@ Resonance is not a single property—it is a composite of several forms of compa
 
 Resonance can be expressed as a function of these three factors:
 
-\[
-\text{Resonance} = f(\text{Impedance Match}, \text{Frequency Match}, \text{Scale Match})
-\]
+$$\text{Resonance} = f(\text{Impedance Match}, \text{Frequency Match}, \text{Scale Match})$$
 
 When all three are optimized, resonance is maximized—and interaction efficiency is highest.
 
@@ -168,9 +164,7 @@ The concept of resonance is **domain-independent**:
 
 The **mathematics** may differ (wave equations vs. information theory vs. network dynamics), but the **logic** is the same:
 
-\[
-\text{Interaction} \propto \text{Compatibility across Impedance, Frequency, and Scale}
-\]
+$$\text{Interaction} \propto \text{Compatibility across Impedance, Frequency, and Scale}$$
 
 ---
 

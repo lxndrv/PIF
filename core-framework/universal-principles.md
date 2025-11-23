@@ -17,9 +17,7 @@ Every system exists in a balance between two opposing forces:
 
 The **state** of a system is the ratio of these forces:
 
-\[
-\text{State} = \frac{\text{Structure}}{\text{Chaos}}
-\]
+$$\text{State} = \frac{\text{Structure}}{\text{Chaos}}$$
 
 ### Implications
 
@@ -49,9 +47,7 @@ When two agents encounter each other, they do not automatically interact. The ef
 
 The **interaction strength** is proportional to the degree of compatibility:
 
-\[
-\text{Interaction} = f(\text{Impedance}, \text{Resonance}, \text{Scale})
-\]
+$$\text{Interaction} = f(\text{Impedance}, \text{Resonance}, \text{Scale})$$
 
 ### Implications
 
@@ -81,12 +77,10 @@ Every system has a **capacity**—a maximum amount of load (stress, information,
 
 The **response** depends on the ratio of load to capacity:
 
-\[
-\text{Response} = \begin{cases}
+$$\text{Response} = \begin{cases}
 \text{Elastic Adaptation} & \text{if } \text{Load} < \text{Capacity} \\
 \text{Phase Transition} & \text{if } \text{Load} > \text{Capacity}
-\end{cases}
-\]
+\end{cases}$$
 
 ### Implications
 

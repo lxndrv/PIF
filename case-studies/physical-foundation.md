@@ -35,9 +35,7 @@ Consider the most familiar phase transition: water boiling.
 
 The state of water is defined by the ratio:
 
-\[
-\text{State} = \frac{\text{Intermolecular Bonding Energy}}{\text{Kinetic Energy}}
-\]
+$$\text{State} = \frac{\text{Intermolecular Bonding Energy}}{\text{Kinetic Energy}}$$
 
 - **High Bond/Low Kinetic = Solid (Ice):** Molecules are locked in place
 - **Moderate Bond/Moderate Kinetic = Liquid (Water):** Molecules flow but remain cohesive
@@ -75,9 +73,7 @@ The transition at 100°C represents a **capacity threshold:**
 
 Every phase transition (solid-liquid, liquid-gas, paramagnetic-ferromagnetic, superconducting, etc.) follows this logic:
 
-\[
-\text{Transition occurs when: } \frac{\text{External Load}}{\text{Internal Capacity}} > 1
-\]
+$$\text{Transition occurs when: } \frac{\text{External Load}}{\text{Internal Capacity}} > 1$$
 
 This is not unique to water. It is a universal pattern in thermodynamics.
 
@@ -101,9 +97,7 @@ Gravity is not a force in General Relativity—it is the curvature of spacetime 
 
 The state of spacetime is defined by the ratio:
 
-\[
-\text{Curvature} = \frac{\text{Energy Density}}{\text{Spacetime Stiffness}}
-\]
+$$\text{Curvature} = \frac{\text{Energy Density}}{\text{Spacetime Stiffness}}$$
 
 - **Low energy density:** Spacetime is nearly flat (Newtonian regime)
 - **Moderate energy density:** Spacetime curves (General Relativity)
@@ -123,7 +117,7 @@ The interaction between energy and spacetime is **scale-dependent**, not univers
 
 #### Principle 3: Capacity Threshold
 
-Spacetime has a **capacity limit**—the Planck energy density (~10^96 kg/m³):
+Spacetime has a **capacity limit**—the Planck energy density (~$10^{96}$ kg/m³):
 
 - **Load:** Energy density from matter/radiation
 - **Capacity:** The structural integrity of spacetime itself
@@ -142,9 +136,7 @@ Spacetime has a **capacity limit**—the Planck energy density (~10^96 kg/m³):
 
 The structure of spacetime follows the same proportional logic as boiling water:
 
-\[
-\text{Phase transition occurs when: } \frac{\text{Energy Density}}{\text{Planck Capacity}} > 1
-\]
+$$\text{Phase transition occurs when: } \frac{\text{Energy Density}}{\text{Planck Capacity}} > 1$$
 
 General Relativity is the **linear response** regime.  
 Quantum Gravity is the **non-linear response** regime.

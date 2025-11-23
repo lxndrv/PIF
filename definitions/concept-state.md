@@ -16,9 +16,7 @@ In PIF, state is universal: it applies to atoms, organisms, minds, organizations
 
 ## Formal Expression
 
-\[
-\text{State} = \frac{\text{Structure (Binding Energy)}}{\text{Chaos (Kinetic/Disruptive Energy)}}
-\]
+$$\text{State} = \frac{\text{Structure (Binding Energy)}}{\text{Chaos (Kinetic/Disruptive Energy)}}$$
 
 Where:
 - **Structure:** Internal forces that hold the system together (bonds, organization, coherence)
@@ -175,9 +173,7 @@ The concept of state is **domain-independent**:
 
 The **mathematics** may differ (thermodynamics vs. biology vs. sociology), but the **logic** is the same:
 
-\[
-\text{State} = \frac{\text{Cohesion}}{\text{Disruption}}
-\]
+$$\text{State} = \frac{\text{Cohesion}}{\text{Disruption}}$$
 
 ---
 

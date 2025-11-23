@@ -20,9 +20,7 @@ These questions assume life is a fundamentally different kind of thing from non-
 
 A living system is one where:
 
-\[
-\frac{\text{Organization Rate}}{\text{Dissipation Rate}} > 1
-\]
+$$\frac{\text{Organization Rate}}{\text{Dissipation Rate}} > 1$$
 
 In other words:
 - **Organization Rate:** The rate at which the system builds structure, concentrates energy, and increases internal complexity
@@ -74,9 +72,7 @@ Replication is not a goal—it is a **forced response to capacity overload.**
 
 Once replication began, the system entered a new state:
 
-\[
-\text{Organization Rate} > \text{Dissipation Rate}
-\]
+$$\text{Organization Rate} > \text{Dissipation Rate}$$
 
 Now the system:
 - Builds complexity faster than entropy breaks it down

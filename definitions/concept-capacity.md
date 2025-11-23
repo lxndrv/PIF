@@ -17,15 +17,11 @@ It is not a static property—it depends on:
 
 ## Formal Expression
 
-\[
-\text{Capacity} = f(\text{Structure}, \text{Distribution Pathways}, \text{Load Type})
-\]
+$$\text{Capacity} = f(\text{Structure}, \text{Distribution Pathways}, \text{Load Type})$$
 
 A system reaches its capacity threshold when:
 
-\[
-\frac{\text{Load}}{\text{Capacity}} = 1
-\]
+$$\frac{\text{Load}}{\text{Capacity}} = 1$$
 
 - **Load < Capacity:** Elastic response (linear, predictable, reversible)
 - **Load ≈ Capacity:** Critical point (high sensitivity, tipping point)
@@ -106,9 +102,7 @@ The concept of capacity is **domain-independent**:
 
 The **mathematics** may differ (thermodynamics vs. information theory vs. network theory), but the **logic** is the same:
 
-\[
-\text{If } \frac{\text{Load}}{\text{Capacity}} > 1 \text{, transformation is forced.}
-\]
+$$\text{If } \frac{\text{Load}}{\text{Capacity}} > 1 \text{, transformation is forced.}$$
 
 ---
 
