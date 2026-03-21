@@ -1,0 +1,9 @@
+{
+  "load_start": 1200,
+  "load_stop": 3000,
+  "load_step": 200,
+  "trials_per_load": 5,
+  "models": [
+    "gpt-4o-mini"
+  ]
+}

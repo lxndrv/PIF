@@ -1,0 +1,22 @@
+load_size,trial,model,is_correct,confidence_score,expected,answer,had_error
+3000,1,gpt-4o-mini,False,1.0,the moon,Red,False
+3000,2,gpt-4o-mini,True,1.0,Gold,Gold,False
+3000,3,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+4000,1,gpt-4o-mini,False,1.0,the moon,a spiral,False
+4000,2,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+4000,3,gpt-4o-mini,True,1.0,Orange,Orange,False
+5000,1,gpt-4o-mini,False,1.0,a triangle,ancient Egypt,False
+5000,2,gpt-4o-mini,True,1.0,the Northern Lights,the Northern Lights,False
+5000,3,gpt-4o-mini,False,1.0,Silver,Red,False
+6000,1,gpt-4o-mini,False,1.0,Blue,the moon,False
+6000,2,gpt-4o-mini,True,1.0,Green,Green,False
+6000,3,gpt-4o-mini,False,1.0,the moon,the Northern Lights,False
+7000,1,gpt-4o-mini,False,1.0,Purple,a triangle,False
+7000,2,gpt-4o-mini,True,1.0,Orange,Orange,False
+7000,3,gpt-4o-mini,True,1.0,Silver,Silver,False
+8000,1,gpt-4o-mini,False,1.0,compressed time,a triangle,False
+8000,2,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+8000,3,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+9000,1,gpt-4o-mini,False,0.0,crystallized starlight,"Error code: 400 - {'error': {'message': ""This model's maximum context length is 128000 tokens. However, your messages resulted in 136475 tokens. Please reduce the length of the messages."", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",True
+9000,2,gpt-4o-mini,False,0.0,Blue,"Error code: 400 - {'error': {'message': ""This model's maximum context length is 128000 tokens. However, your messages resulted in 136304 tokens. Please reduce the length of the messages."", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",True
+9000,3,gpt-4o-mini,False,0.0,Orange,"Error code: 400 - {'error': {'message': ""This model's maximum context length is 128000 tokens. However, your messages resulted in 136396 tokens. Please reduce the length of the messages."", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",True

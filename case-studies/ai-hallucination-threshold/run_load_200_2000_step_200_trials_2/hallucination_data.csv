@@ -1,0 +1,37 @@
+load_size,trial,model,is_correct,confidence_score,expected,answer,had_error
+200,1,gpt-4o-mini,True,1.0,Purple,Purple,False
+200,1,gemini-2.0-flash,True,1.0,Purple,Purple,False
+200,2,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+200,2,gemini-2.0-flash,True,1.0,Yellow,Yellow,False
+400,1,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+400,1,gemini-2.0-flash,True,1.0,compressed time,compressed time,False
+400,2,gpt-4o-mini,True,1.0,Red,Red,False
+400,2,gemini-2.0-flash,True,1.0,Red,Red,False
+600,1,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+600,1,gemini-2.0-flash,True,1.0,a spiral,a spiral,False
+600,2,gpt-4o-mini,True,1.0,Orange,Orange,False
+600,2,gemini-2.0-flash,True,1.0,Orange,Orange,False
+800,1,gpt-4o-mini,True,1.0,Blue,Blue,False
+800,1,gemini-2.0-flash,True,1.0,Blue,Blue,False
+800,2,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+800,2,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1000,1,gpt-4o-mini,True,1.0,Green,Green,False
+1000,1,gemini-2.0-flash,True,1.0,Green,Green,False
+1000,2,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+1000,2,gemini-2.0-flash,True,1.0,a spiral,a spiral,False
+1200,1,gpt-4o-mini,True,1.0,Blue,Blue,False
+1200,1,gemini-2.0-flash,True,1.0,Blue,Blue,False
+1200,2,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1200,2,gemini-2.0-flash,True,1.0,a triangle,a triangle,False
+1400,1,gpt-4o-mini,True,1.0,ancient Egypt,ancient Egypt,False
+1400,1,gemini-2.0-flash,True,1.0,ancient Egypt,ancient Egypt,False
+1400,2,gpt-4o-mini,True,1.0,Gold,Gold,False
+1400,2,gemini-2.0-flash,True,1.0,Gold,Gold,False
+1600,1,gpt-4o-mini,False,1.0,underground rivers,Orange,False
+1600,1,gemini-2.0-flash,True,1.0,underground rivers,underground rivers,False
+1600,2,gpt-4o-mini,False,1.0,Red,Yellow,False
+1600,2,gemini-2.0-flash,True,1.0,Red,Red,False
+1800,1,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1800,1,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1800,2,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1800,2,gemini-2.0-flash,True,1.0,a triangle,a triangle,False

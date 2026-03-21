@@ -1,0 +1,22 @@
+load_size,trial,model,is_correct,confidence_score,expected,answer,had_error
+1500,1,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+1500,2,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1500,3,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+2000,1,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+2000,2,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+2000,3,gpt-4o-mini,False,1.0,Dr. Wigglesworth,the moon,False
+2500,1,gpt-4o-mini,True,1.0,ancient Egypt,ancient Egypt,False
+2500,2,gpt-4o-mini,False,1.0,Purple,underground rivers,False
+2500,3,gpt-4o-mini,True,1.0,Purple,Purple,False
+3000,1,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+3000,2,gpt-4o-mini,True,1.0,underground rivers,underground rivers,False
+3000,3,gpt-4o-mini,True,1.0,Purple,Purple,False
+3500,1,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+3500,2,gpt-4o-mini,False,1.0,Purple,the Northern Lights,False
+3500,3,gpt-4o-mini,False,1.0,quantum foam,crystallized starlight,False
+4000,1,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+4000,2,gpt-4o-mini,True,1.0,the moon,the moon,False
+4000,3,gpt-4o-mini,False,1.0,Gold,Green,False
+4500,1,gpt-4o-mini,True,1.0,Orange,Orange,False
+4500,2,gpt-4o-mini,True,1.0,Gold,Gold,False
+4500,3,gpt-4o-mini,False,1.0,compressed time,underground rivers,False

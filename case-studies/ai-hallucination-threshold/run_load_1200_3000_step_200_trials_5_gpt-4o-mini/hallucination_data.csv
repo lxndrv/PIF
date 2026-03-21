@@ -1,0 +1,46 @@
+load_size,trial,model,is_correct,confidence_score,expected,answer,had_error
+1200,1,gpt-4o-mini,True,1.0,underground rivers,underground rivers,False
+1200,2,gpt-4o-mini,True,1.0,Gold,Gold,False
+1200,3,gpt-4o-mini,True,1.0,Red,Red,False
+1200,4,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+1200,5,gpt-4o-mini,True,1.0,Purple,Purple,False
+1400,1,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+1400,2,gpt-4o-mini,True,1.0,Green,Green,False
+1400,3,gpt-4o-mini,True,1.0,Blue,Blue,False
+1400,4,gpt-4o-mini,True,1.0,Green,Green,False
+1400,5,gpt-4o-mini,True,1.0,Green,Green,False
+1600,1,gpt-4o-mini,True,1.0,Purple,Purple,False
+1600,2,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+1600,3,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+1600,4,gpt-4o-mini,False,1.0,Red,crystallized starlight,False
+1600,5,gpt-4o-mini,False,1.0,Red,a hexagon,False
+1800,1,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+1800,2,gpt-4o-mini,False,1.0,crystallized starlight,a hexagon,False
+1800,3,gpt-4o-mini,True,1.0,Orange,Orange,False
+1800,4,gpt-4o-mini,True,1.0,the Northern Lights,the Northern Lights,False
+1800,5,gpt-4o-mini,True,1.0,Purple,Purple,False
+2000,1,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+2000,2,gpt-4o-mini,True,1.0,the moon,the moon,False
+2000,3,gpt-4o-mini,True,1.0,ancient Egypt,ancient Egypt,False
+2000,4,gpt-4o-mini,True,1.0,quantum foam,quantum foam,False
+2000,5,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+2200,1,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+2200,2,gpt-4o-mini,True,1.0,underground rivers,underground rivers,False
+2200,3,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+2200,4,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+2200,5,gpt-4o-mini,True,1.0,Green,Green,False
+2400,1,gpt-4o-mini,True,1.0,Orange,Orange,False
+2400,2,gpt-4o-mini,True,1.0,underground rivers,underground rivers,False
+2400,3,gpt-4o-mini,False,1.0,crystallized starlight,a triangle,False
+2400,4,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+2400,5,gpt-4o-mini,True,1.0,Gold,Gold,False
+2600,1,gpt-4o-mini,True,1.0,Green,Green,False
+2600,2,gpt-4o-mini,True,1.0,Purple,Purple,False
+2600,3,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+2600,4,gpt-4o-mini,False,1.0,volcanic ash,a hexagon,False
+2600,5,gpt-4o-mini,True,1.0,Silver,Silver,False
+2800,1,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+2800,2,gpt-4o-mini,False,1.0,Blue,a hexagon,False
+2800,3,gpt-4o-mini,False,1.0,ancient Egypt,the Northern Lights,False
+2800,4,gpt-4o-mini,False,1.0,Red,Purple,False
+2800,5,gpt-4o-mini,False,1.0,Red,a hexagon,False

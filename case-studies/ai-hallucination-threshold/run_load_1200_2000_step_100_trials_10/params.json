@@ -1,0 +1,6 @@
+{
+  "load_start": 1200,
+  "load_stop": 2000,
+  "load_step": 100,
+  "trials_per_load": 10
+}

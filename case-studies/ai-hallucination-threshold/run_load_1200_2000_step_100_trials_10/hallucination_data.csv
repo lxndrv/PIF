@@ -1,0 +1,161 @@
+load_size,trial,model,is_correct,confidence_score,expected,answer,had_error
+1200,1,gpt-4o-mini,True,1.0,the moon,the moon,False
+1200,1,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1200,2,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+1200,2,gemini-2.0-flash,True,1.0,a hexagon,a hexagon,False
+1200,3,gpt-4o-mini,False,1.0,the moon,the Northern Lights,False
+1200,3,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1200,4,gpt-4o-mini,True,1.0,Green,Green,False
+1200,4,gemini-2.0-flash,True,1.0,Green,Green,False
+1200,5,gpt-4o-mini,True,1.0,Blue,Blue,False
+1200,5,gemini-2.0-flash,True,1.0,Blue,The jrcbetcy is discovered in: Blue,False
+1200,6,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1200,6,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1200,7,gpt-4o-mini,False,1.0,volcanic ash,Dr. Wigglesworth,False
+1200,7,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1200,8,gpt-4o-mini,True,1.0,Green,Green,False
+1200,8,gemini-2.0-flash,True,1.0,Green,Green,False
+1200,9,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1200,9,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1200,10,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1200,10,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1300,1,gpt-4o-mini,True,1.0,Silver,Silver,False
+1300,1,gemini-2.0-flash,True,1.0,Silver,Silver,False
+1300,2,gpt-4o-mini,True,1.0,Green,Green,False
+1300,2,gemini-2.0-flash,True,1.0,Green,Green,False
+1300,3,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1300,3,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1300,4,gpt-4o-mini,True,1.0,Orange,Orange,False
+1300,4,gemini-2.0-flash,True,1.0,Orange,Orange,False
+1300,5,gpt-4o-mini,True,1.0,the Northern Lights,the Northern Lights,False
+1300,5,gemini-2.0-flash,True,1.0,the Northern Lights,the Northern Lights,False
+1300,6,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1300,6,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1300,7,gpt-4o-mini,False,1.0,ancient Egypt,the moon,False
+1300,7,gemini-2.0-flash,True,1.0,ancient Egypt,ancient Egypt,False
+1300,8,gpt-4o-mini,True,1.0,Green,Green,False
+1300,8,gemini-2.0-flash,True,1.0,Green,Green,False
+1300,9,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1300,9,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1300,10,gpt-4o-mini,True,1.0,the moon,the moon,False
+1300,10,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1400,1,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+1400,1,gemini-2.0-flash,True,1.0,a hexagon,a hexagon,False
+1400,2,gpt-4o-mini,True,1.0,quantum foam,quantum foam,False
+1400,2,gemini-2.0-flash,True,1.0,quantum foam,quantum foam,False
+1400,3,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+1400,3,gemini-2.0-flash,True,1.0,compressed time,compressed time,False
+1400,4,gpt-4o-mini,True,1.0,the moon,the moon,False
+1400,4,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1400,5,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+1400,5,gemini-2.0-flash,True,1.0,crystallized starlight,crystallized starlight,False
+1400,6,gpt-4o-mini,True,1.0,Gold,Gold,False
+1400,6,gemini-2.0-flash,True,1.0,Gold,Gold,False
+1400,7,gpt-4o-mini,True,1.0,Gold,Gold,False
+1400,7,gemini-2.0-flash,True,1.0,Gold,Gold,False
+1400,8,gpt-4o-mini,True,1.0,Purple,Purple,False
+1400,8,gemini-2.0-flash,True,1.0,Purple,Purple,False
+1400,9,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+1400,9,gemini-2.0-flash,True,1.0,compressed time,compressed time,False
+1400,10,gpt-4o-mini,True,1.0,the Northern Lights,the Northern Lights,False
+1400,10,gemini-2.0-flash,True,1.0,the Northern Lights,the Northern Lights,False
+1500,1,gpt-4o-mini,True,1.0,Silver,Silver,False
+1500,1,gemini-2.0-flash,True,1.0,Silver,Silver,False
+1500,2,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+1500,2,gemini-2.0-flash,True,1.0,a spiral,a spiral,False
+1500,3,gpt-4o-mini,True,1.0,Blue,Blue,False
+1500,3,gemini-2.0-flash,True,1.0,Blue,Blue,False
+1500,4,gpt-4o-mini,False,1.0,the Northern Lights,a hexagon,False
+1500,4,gemini-2.0-flash,True,1.0,the Northern Lights,the Northern Lights,False
+1500,5,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+1500,5,gemini-2.0-flash,True,1.0,Yellow,Yellow,False
+1500,6,gpt-4o-mini,True,1.0,Silver,Silver,False
+1500,6,gemini-2.0-flash,True,1.0,Silver,Silver,False
+1500,7,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+1500,7,gemini-2.0-flash,True,1.0,a hexagon,a hexagon,False
+1500,8,gpt-4o-mini,True,1.0,Orange,Orange,False
+1500,8,gemini-2.0-flash,True,1.0,Orange,Orange,False
+1500,9,gpt-4o-mini,False,1.0,Silver,crystallized starlight,False
+1500,9,gemini-2.0-flash,True,1.0,Silver,Silver,False
+1500,10,gpt-4o-mini,True,1.0,Red,Red,False
+1500,10,gemini-2.0-flash,True,1.0,Red,Red,False
+1600,1,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1600,1,gemini-2.0-flash,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1600,2,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+1600,2,gemini-2.0-flash,True,1.0,compressed time,compressed time,False
+1600,3,gpt-4o-mini,True,1.0,compressed time,compressed time,False
+1600,3,gemini-2.0-flash,True,1.0,compressed time,compressed time,False
+1600,4,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1600,4,gemini-2.0-flash,True,1.0,a triangle,a triangle,False
+1600,5,gpt-4o-mini,True,1.0,quantum foam,quantum foam,False
+1600,5,gemini-2.0-flash,True,1.0,quantum foam,quantum foam,False
+1600,6,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1600,6,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1600,7,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1600,7,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1600,8,gpt-4o-mini,False,1.0,the moon,Green,False
+1600,8,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1600,9,gpt-4o-mini,True,1.0,Silver,Silver,False
+1600,9,gemini-2.0-flash,True,1.0,Silver,The yiqdrdfo is discovered in Silver,False
+1600,10,gpt-4o-mini,True,1.0,Green,Green,False
+1600,10,gemini-2.0-flash,True,1.0,Green,Green,False
+1700,1,gpt-4o-mini,True,1.0,Green,Green,False
+1700,1,gemini-2.0-flash,True,1.0,Green,Green,False
+1700,2,gpt-4o-mini,True,1.0,Purple,Purple,False
+1700,2,gemini-2.0-flash,True,1.0,Purple,Purple,False
+1700,3,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1700,3,gemini-2.0-flash,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1700,4,gpt-4o-mini,True,1.0,Gold,Gold,False
+1700,4,gemini-2.0-flash,True,1.0,Gold,Gold,False
+1700,5,gpt-4o-mini,True,1.0,underground rivers,underground rivers,False
+1700,5,gemini-2.0-flash,True,1.0,underground rivers,underground rivers,False
+1700,6,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1700,6,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1700,7,gpt-4o-mini,False,1.0,crystallized starlight,a triangle,False
+1700,7,gemini-2.0-flash,True,1.0,crystallized starlight,crystallized starlight,False
+1700,8,gpt-4o-mini,True,1.0,the moon,the moon,False
+1700,8,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1700,9,gpt-4o-mini,True,1.0,Green,Green,False
+1700,9,gemini-2.0-flash,True,1.0,Green,Green,False
+1700,10,gpt-4o-mini,True,1.0,frozen lightning,frozen lightning,False
+1700,10,gemini-2.0-flash,True,1.0,frozen lightning,frozen lightning,False
+1800,1,gpt-4o-mini,True,1.0,Green,Green,False
+1800,1,gemini-2.0-flash,True,1.0,Green,Green,False
+1800,2,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1800,2,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1800,3,gpt-4o-mini,True,1.0,a hexagon,a hexagon,False
+1800,3,gemini-2.0-flash,True,1.0,a hexagon,a hexagon,False
+1800,4,gpt-4o-mini,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1800,4,gemini-2.0-flash,True,1.0,Dr. Wigglesworth,Dr. Wigglesworth,False
+1800,5,gpt-4o-mini,False,1.0,Yellow,a hexagon,False
+1800,5,gemini-2.0-flash,True,1.0,Yellow,Yellow,False
+1800,6,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+1800,6,gemini-2.0-flash,True,1.0,a spiral,a spiral,False
+1800,7,gpt-4o-mini,True,1.0,the moon,the moon,False
+1800,7,gemini-2.0-flash,True,1.0,the moon,the moon,False
+1800,8,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1800,8,gemini-2.0-flash,True,1.0,a triangle,a triangle,False
+1800,9,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1800,9,gemini-2.0-flash,True,1.0,a triangle,a triangle,False
+1800,10,gpt-4o-mini,True,1.0,Yellow,Yellow,False
+1800,10,gemini-2.0-flash,True,1.0,Yellow,Yellow,False
+1900,1,gpt-4o-mini,True,1.0,Blue,Blue,False
+1900,1,gemini-2.0-flash,True,1.0,Blue,Blue,False
+1900,2,gpt-4o-mini,True,1.0,crystallized starlight,crystallized starlight,False
+1900,2,gemini-2.0-flash,True,1.0,crystallized starlight,crystallized starlight,False
+1900,3,gpt-4o-mini,True,1.0,the Northern Lights,the Northern Lights,False
+1900,3,gemini-2.0-flash,True,1.0,the Northern Lights,the Northern Lights,False
+1900,4,gpt-4o-mini,True,1.0,Purple,Purple,False
+1900,4,gemini-2.0-flash,True,1.0,Purple,Purple,False
+1900,5,gpt-4o-mini,True,1.0,Green,Green,False
+1900,5,gemini-2.0-flash,True,1.0,Green,Green,False
+1900,6,gpt-4o-mini,True,1.0,a triangle,a triangle,False
+1900,6,gemini-2.0-flash,True,1.0,a triangle,a triangle,False
+1900,7,gpt-4o-mini,True,1.0,volcanic ash,volcanic ash,False
+1900,7,gemini-2.0-flash,True,1.0,volcanic ash,volcanic ash,False
+1900,8,gpt-4o-mini,True,1.0,Blue,Blue,False
+1900,8,gemini-2.0-flash,True,1.0,Blue,Blue,False
+1900,9,gpt-4o-mini,True,1.0,a spiral,a spiral,False
+1900,9,gemini-2.0-flash,True,1.0,a spiral,a spiral,False
+1900,10,gpt-4o-mini,True,1.0,Silver,Silver,False
+1900,10,gemini-2.0-flash,True,1.0,Silver,Silver,False
